@@ -1,33 +1,45 @@
 # MERN Real-Time Chat Application
 
-A real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+A real-time chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 The application supports secure authentication using JWT and real-time messaging using Socket.IO.
+
+---
+
+## Live Demo
+
+Deployed Application:
+https://mern-realtime-chat-application-wqkn.onrender.com
+
+GitHub Repository:
+https://github.com/shivakumar9121/mern-realtime-chat-application
 
 ---
 
 ## Features
 
-- User authentication (JWT)
-- Real-time messaging using Socket.IO
-- Sender and receiver chat UI
-- Online users indicator
-- Responsive interface
-- MongoDB database integration
+* User authentication (JWT)
+* Real-time messaging using Socket.IO
+* Sender and receiver chat UI
+* Online users indicator
+* Responsive interface
+* MongoDB database integration
 
 ---
 
 ## Tech Stack
 
 **Frontend**
-- React.js
-- Tailwind CSS
-- Vite
+
+* React.js
+* Tailwind CSS
+* Vite
 
 **Backend**
-- Node.js
-- Express.js
-- MongoDB
-- Socket.IO
+
+* Node.js
+* Express.js
+* MongoDB
+* Socket.IO
 
 ---
 
@@ -64,6 +76,8 @@ mern-realtime-chat-application
     └── chat-conversation.png
 ```
 
+---
+
 ## Run Locally
 
 Clone the repository
@@ -88,9 +102,8 @@ npm install
 npm run dev
 ```
 
----
 
 ## Author
 
-**Pathlavath Shiva Kumar**  
+**Pathlavath Shiva Kumar**
 GitHub: https://github.com/shivakumar9121
